@@ -13,7 +13,9 @@ This Python project allows you to generate stunning procedural images and animat
 ## 📸 Preview
 
 ![screenshot_1](/screenshot_1.PNG "Preview")
-![screenshot_2](/screenshot_2.PNG "Preview")  
+
+![screenshot_2](/screenshot_2.PNG "Preview")
+
 ![screenshot_3](/screenshot_3.GIF "Preview")
 
 ## 🛠️ Requirements
